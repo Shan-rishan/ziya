@@ -1,4 +1,4 @@
-    /* # Exclusively Fasil
+    /* # Exclusively Rishan
     # @lasiya99X t.me/lasiya99X
 */
 
