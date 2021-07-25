@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════ziya🧚🏻‍♀️═════╗*\n           \n*✨️═ziya═✨️*\n\n*owner Rishan - http://Wa.me/+919995270571*\n             \n*╚══════❤❤❤═════╝*\n\n```▷Creator: Rishan```"
+    r_text[1] = "*╔═════Ziya🧚🏻‍♀️═════╗*\n           \n*✨️═ziya═✨️*\n\n*owner Rishan - http://Wa.me/+919995270571*\n             \n*╚══════❤❤❤═════╝*\n\n```▷Creator: Rishan```"
 
     
     await message.client.sendMessage(
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n   \n```ZIYA bgm bot```    \n*✨️═Ziya Owner Rishan═✨️*\n\n*💘https://github.com/Shan-rishan/ziya*\n     \n*💓pikachu═Owner ameer suhail═*\n\n*⚜https://github.com/ameer-kallumthodi/pikachu*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n   \n```ZIYA  Bot```    \n*✨️═Ziya Owner Rishan═✨️*\n\n*💘https://github.com/Shan-rishan/ziya*\n     \n*💓pikachu═Owner ameer suhail═*\n\n*⚜https://github.com/ameer-kallumthodi/pikachu*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
         await message.client.sendMessage(
@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════👰ziya👰═════╗*\n           \n*✨️═ziya═✨️*\n\n*owner Rishan - http://Wa.me/+919995270571*\n*            \n*╚═════❤❤❤═════╝*\n\n*▷Creator: Rishan*"
+    r_text[1] = "*╔═════👰Ziya👰═════╗*\n           \n*✨️═ziya═✨️*\n\n*owner Rishan - http://Wa.me/+919995270571*\n*            \n*╚═════❤❤❤═════╝*\n\n*▷Creator: Rishan*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n   \n```ZIYA bgm bot```    \n*💥═Ziya owner Rishan═💥*\n\n*💘https://github.com/Shan-rishan/ziya*\n     \n💓Pikachu═Owner ameer suhail═*\n\n*⚜https://github.com/ameer-kallumthodi/pikachu*    \n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n   \n```ZIYA  Bot```    \n*💥═Ziya owner Rishan═💥*\n\n*💘https://github.com/Shan-rishan/ziya*\n     \n💓Pikachu═Owner ameer suhail═*\n\n*⚜https://github.com/ameer-kallumthodi/pikachu*    \n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
         await message.client.sendMessage(
