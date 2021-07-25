@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Despasito```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Searching your song 🎶*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Cheviyil vekkunna sadanam venel eduth vecho 🎧😏*\n",
+            "DOWNLOADING_SONG": "\n*Searching your song 🎶🧞‍♂️*\n",
+            "UPLOADING_SONG": "\n*Uploading 📲 Cheviyil vekkunna sadanam undel eduth vecho 🎧💫*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Download cheyyan patto nokatte...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Ha Ha Nisaaram 🤠```"
+            "DOWNLOADING": "```Ha Ha Wait.. 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
